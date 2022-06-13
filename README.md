@@ -1,3 +1,11 @@
+# 主要参考
+
+https://blog.csdn.net/qq_42068550/article/details/121538102
+
+sass安装使用： yarn add sass 即可
+
+
+
 # uni-scss-demo
 
 ## Project setup
