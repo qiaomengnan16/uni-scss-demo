@@ -30,7 +30,6 @@
 
 <style lang="scss">
 
-@import '../../theme/handle.scss';
 
   .common-util {
     font-size: 18rpx;
